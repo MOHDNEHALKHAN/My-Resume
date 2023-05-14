@@ -1,8 +1,14 @@
 body{
     background-color: white;
+    font-family:sans-serif;
 }
 .name{
     text-align: center;
+}
+.city{
+        text-align: center;
+        margin-top: 1px;
+        margin: o;
 }
 .header{
     display: flex;
@@ -13,6 +19,7 @@ body{
 img{
     height: 15px;
     width: 15px;
+    margin-right: 4px;
 }
 .telephone{
     text-align: center;
@@ -23,12 +30,28 @@ img{
 }
 hr{
     height: 1.5px;
-
+    margin-left: 10px;
+    margin-right: 10px;
     background-color: black;
-    margin: 0;
-    border: 0;
+    border: 0px;
 
 }
 h2{
-    margin-bottom: 1px;
+    margin-bottom: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h3{
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+p{
+    margin-left: 22px;
+    margin-right: 10px;
+}
+a{
+    color: black;
+}
+span{
+    text-align: right;
 }
