@@ -55,3 +55,6 @@ a{
 span{
     text-align: right;
 }
+ul{
+    list-style: none;
+}
