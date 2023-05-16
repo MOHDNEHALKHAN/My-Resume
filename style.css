@@ -58,3 +58,10 @@ span{
 ul{
     list-style: none;
 }
+#hobby{
+    justify-content: center;
+    text-align: center;
+}
+.hob{
+    text-align: left;
+}
